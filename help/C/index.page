@@ -1,31 +1,34 @@
 <page xmlns="http://projectmallard.org/1.0/"
       xmlns:its="http://www.w3.org/2005/11/its"
-      type="guide" id="index">
+      xmlns:e="http://projectmallard.org/experimental/"
+      type="guide" style="2column task"
+      id="index">
 
   <info>
+    <title type="link">Bijiben</title>
+    <title type="text">Bijiben</title>
     <revision pkgversion="3.8" date="2013-04-29" status="review"/>
-
     <credit type="author">
       <name>Pierre-Yves Luyten</name>
       <years>2012</years>
     </credit>
-
+    <credit type="editor">
+      <name>Shobha Tyagi</name>
+      <years>2013</years>
+    </credit>
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
-
   </info>
-
-  <title>Notes Help</title>
-
-  <section id="introduction">
-    <title>Introduction</title>
-    <media type="image" src="figures/bijiben-note.png" mime="image/png">
-      <p>Screenshot of a note in Notes.</p>
-    </media>
-    <p><app>Notes</app> is a simple note keeping application.</p>
+  <title>
+  <media type="image" mime="image/png" src="figures/bijiben-icon.png" its:translate="no" />
+  Bijiben
+  </title>
+  <p><app>Bijiben</app> means notebook (筆記本 / 笔记本). Bijiben is a simple
+  note keeping application which is designed to be easy to use.</p>
+  <p>See help topics for Bijiben that are grouped into sections below.</p>
+  <section id="create" style= "2column"><title>Create notes</title>
   </section>
-
-  <section id="create"><title>Create notes</title></section>
-  <section id="use"><title>Edit and share notes</title></section>
-  <section id="delete"><title>Delete notes</title></section>
-
+  <section id="use" style= "2column"><title>Edit and share notes</title>
+  </section>
+  <section id="delete" style= "2column"><title>Delete notes</title>
+  </section>
 </page>
