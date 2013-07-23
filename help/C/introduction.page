@@ -1,0 +1,47 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:its="http://www.w3.org/2005/11/its"
+      type="guide" style="2column task"
+      id="introduction">
+
+  <info>
+    <link type="guide" xref="index" group="#first"/>
+
+    <revision pkgversion="3.8" date="2013-04-29" status="outdated"/>
+    <revision pkgversion="3.10" date="2013-07-23" status="review"/>
+
+    <credit type="author">
+      <name>Shobha Tyagi</name>
+      <email>tyagishobha@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="author">
+      <name>Pierre-Yves Luyten</name>
+      <email>py@luyten.fr</email>
+      <years>2012</years>
+    </credit>
+
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+
+    <desc>A simple application to create, edit and view notes.</desc>
+  </info>
+  <title>
+    Inroduction to Notes
+  </title>
+  <p><app>Notes</app> is a simple note keeping application which is designed
+  to be easy to use. As <app>Notes</app> integrates very easily with other
+  applications. For example,You can search notes from the gnome shell
+  <app>Activities</app> (and enable/disable this from gnome settings).
+  <app>Notes</app> also integrates with the Online Accounts.</p>
+
+  <media type="image" mime="image/png" src="figures/notes-note.png"
+  width="500" height="300" its:translate="no"/>
+
+  <p><app>Notes</app> was a part of
+  <link href="https://wiki.gnome.org/Design/Apps/"> design proposals</link>.
+  The developer of <app>Notes</app> named it <app>Bijiben</app> which means
+  the notebook (筆記本 / 笔记本) in Chinese. When GNOME 3.8 was being
+  distributed, the name <app>Bijiben</app> was considered confusing and hence,
+  <app>Bijiben</app> was provided a nice icon and was renamed to
+  <app>Notes</app>.</p>
+
+</page>

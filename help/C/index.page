@@ -5,26 +5,31 @@
       id="index">
 
   <info>
-    <title type="link">Bijiben</title>
-    <title type="text">Bijiben</title>
-    <revision pkgversion="3.8" date="2013-04-29" status="review"/>
+    <title type="link">Notes</title>
+    <title type="text">Notes</title>
+    <revision pkgversion="3.8" date="2013-04-29" status="outdated"/>
+    <revision pkgversion="3.10" date="2013-07-23" status="review"/>
     <credit type="author">
       <name>Pierre-Yves Luyten</name>
+      <email>py@luyten.fr</email>
       <years>2012</years>
     </credit>
     <credit type="editor">
       <name>Shobha Tyagi</name>
+      <email>tyagishobha@gmail.com</email>
       <years>2013</years>
     </credit>
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
   </info>
   <title>
-  <media type="image" mime="image/png" src="figures/bijiben-icon.png" its:translate="no" />
-  Bijiben
+  <media type="image" mime="image/png" src="figures/bijiben-icon.png"
+  its:translate="no" />
+  Notes
   </title>
-  <p><app>Bijiben</app> means notebook (筆記本 / 笔记本). Bijiben is a simple
-  note keeping application which is designed to be easy to use.</p>
-  <p>See help topics for Bijiben that are grouped into sections below.</p>
+   <p><app>Notes</app> is a simple application which is designed
+  to be easy to use. See help topics for <app>Notes</app> that are grouped
+  into sections below.</p>
+
   <section id="create" style= "2column"><title>Create notes</title>
   </section>
   <section id="use" style= "2column"><title>Edit and share notes</title>
